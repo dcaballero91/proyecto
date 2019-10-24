@@ -1,5 +1,6 @@
 //Este es una prueba para manejo de version por si esteban rompe
 //por si sigue commiteando
+//commit 2
 # include "iostream"
 # include "conio.h"
 # include "fstream"
@@ -12,13 +13,6 @@
 #include <windows.h>
 #include "sstream"
 using namespace std;
-void clientes();
-void productosinventario();
-void clientes();
-void empleados();
-void proveedores();
-void modificaciones();
-void modclientes();
 void modempleados();
 void modproductos();
 void modproveedores();
